@@ -1,0 +1,190 @@
+{
+    "access_token": "ya29.c.b0AXv0zTOyqWXYgImLoQb4csug9kHy4k4nCN5gAIyInTIvYR8plqBaRdx5c-Gme_mJ87Wgw_SSgv7EDI2rNPAzyoCwYLfWrEoPNkG8Ejgfh4ijKdI9CKEqt8X2N-fGVlgOSnkVD-gStVuxpe5vZHm-0NJYvONYYpaIluX_uLHnyVMJq2AQmD8JTpA11QMa2x2HuPO04FAUGo2O1er19ddMcX03mbMD3Q.........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................",
+    "account_list": [
+        {
+            "auth": "dp488cmubjaa5i8o80cpl6de73y0ivnjnpqeecm4rlc92obnw8",
+            "password": "aniversetv",
+            "pic": "https://wallpapercave.com/wp/wp5008042.jpg",
+            "username": "aniversetv"
+        }
+    ],
+    "adult": true,
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": true,
+            "anilist": true,
+            "id": "1MV80qYTLDBuFsRRqea3kY437k-VMTzrK",
+            "language": "en",
+            "name": "Anime",
+            "type": "TV Shows"
+        },
+        {
+            "adult": true,
+            "anilist": true,
+            "id": "1lqH-uXX1BLtTnQeDgne5Nty5-HWR6OTk",
+            "language": "en",
+            "name": "Movies",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "641145611488-7a4n21p7letrkegs7rh42f7irh34brmm.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "https://anitv.aniversetv.workers.dev/",
+    "fetch_assets": true,
+    "prefer_mkv": true,
+    "prefer_mp4": "true",
+    "refresh_token": "1//0gO18hOMSsGQBCgYIARAAGBASNwF-L9Iru2eCJIfjEy-QRDMFbynNzYqA3pLyFCsp2GfTfhj4c86P2gI6s1c6hxAFRIkFs4sL00Q",
+    "remove_duplicates": true,
+    "remove_no_poster": true,
+    "secret_key": "aniversetv",
+    "service_accounts": [
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-9s6xixgrmk5z41woh51-yu093d@aniversetv.iam.gserviceaccount.com",
+            "client_id": "114971036583504391764",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-9s6xixgrmk5z41woh51-yu093d%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrghuyuhO2S/b+\n5wzlBVB0rQQ1MbPpB42kesOnFYcraPnDizaKWCSJBT33Y5TUd4CsaMvSGY+rM/DF\nGHEcq/60qIcJEm2GoOGPYq0+vvdbJDMEIE6iLWvEAg6rtnTvhswbQnyIFc3LqLwp\nvX4ap1lgjjZ6oDQ3IHFaL6WEEb3Xp7Eo7EhVAvn1xJSKxFmR9m0yz87jGskb8gAj\nYaNGPBspPFDeGFScRplvOUqk53Bl6EMrx3gsCZFtx7VcryhOO5lfkMlWmpcze4z6\nmDq5V4WF5KY4XPXcN0FhAFxyaNYBusL1Vzt27GlJdvSVHZHPjy6UKqvIiU4Tl1T8\nCdsJR6HJAgMBAAECggEAH1//BqmJlMC8ECuB6UTy+ghOxjNv73ylHyOHy0uv7VWX\n6Lg0NOwXOfXr0nh+zGt7RfzUIpJrNHi/+9IMx7AWR8Un8Ep3Mvdd9XdE81YHqCnD\nbipLr4lzkPJhN/kfzQVdTchmxM5600YQg1MOaMigvJ9VnLKZIjr9PvGYEGc4rnEU\nUC0aE72dSUVxicCOe5mGWLsGVM16BZs0tB3T3kq3ebYXtGp+UuMb/MSXTOdMkw3G\n7n54Rh/hF/R/O6DNMH6IGE6aqkL9IzE698vECxKL1JFG2d/lVoqtsSlZW26dhngM\nuKAL/ayKIVrf1pVt7rfh/vQF8NFr+rVO5e5BbyqlsQKBgQD93rNJHsx7bzM6+Qsh\nMvU0nJ0KuXR4Rj3WdtAxL9GYCPF8s3hlovGB0alPglE+r0AWuajuY33dhZW0/D0x\nOlYd9/jqlNuZLmm8azlZBIyfi4kbM9/wjjnjzMt1E5M1y98UBR+rC7oSu1PVh0Wi\n6yh62IVjs03KCN9uurCzLO2BzQKBgQDte/fHrsoBptQec+bHISq9qpg+Z/3I7i4R\n06qh9waQe9+1KNSSbSMLmPivAPesABDg785LQQU7KzSTgUEQOe8F+sNiDzFF6Lwi\nc8mdN7FVXUhp4W2XfEHpJpMvLvvVA8Lm1VYvspPG4udNGogT1QNfHjE7oFHdO2Hp\nvMjMdJVT7QKBgQDJVr3J1+tEWcS/mJQDGG7v8uV5g+ujF9IjLMegutP3R+B9jbiG\notv2oVkt/aSBmmuxmj0oEy/XaAJ7LzE4wZNa4TdAlB41NmIVVNR+jOUaA4gRUurf\n1WyEBf+2MnglyjJ5pjafaQWBpZ+vUUEhHG9WPjJMCABBoxfQsa9B6vfSYQKBgARc\n5qxwdZ2aJwN4NaEq5tIdNDbRSkRKu+Xv8Y6QLzqwS+fUHDOkdaRc5xSv+9zZE3ZO\ncYfIZgQ0Qv8CvONDbTS66qP+i3UxVWN8pROSVluvHwly7sR9r+hMoR+YyV+cdhQv\njynJKhXZTU6JUj6rByjUMStbQqXB1YapxTacXbHxAoGANlUQBFl/DNInkUCIxVAa\ndepvUYUvNRjbolDMw9XRSa/eHHpPqQS4jypYIaBOzwbiWQnmGXniRajL82KXBDTx\naO8SJ2OvnhRcs29MNHRw08OrV7SultDYE5woukHXWcwKCdDW5c/dCsD3sCiARjV5\nMGggt8wQlSA/ise0wOMcx7Y=\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "ca3d1ac16a218c8967db8e9cf45d053ee40deb0a",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc--wa8qf8wx7x5936tz2188sgu28@aniversetv.iam.gserviceaccount.com",
+            "client_id": "101150165454231466581",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc--wa8qf8wx7x5936tz2188sgu28%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEEorUApk7Vgye\nfRuVbZ1lsA6PZLd1dF0w7GMhBhOLOHv+9AnbFiZJguXwnrvGDwMQeWMGoKt5Lwbs\nwBo3m3dyatRYR6FZP5IEcum/Qt9MpkDtdf5bKXDqaewBh/T0zU6FCKXbN3O+VCBd\n+RC2JXE/OZ/F5cRPQISSwzvYLmEwpi5Xulx1Q3kWm0AX3SmKe9nosd2RHOUxvZXk\nMJw5gjTgY9Yv4YcC7kvOsUA/M1y2TEB1dYYwadWK/oy72ycsbcNDSL0K1ENsHvhW\n9XnmSqefP1YugqsEqem9kmgX6gq/C8+C0/rXRJZUAYcZiW/urQnvAmquPaGEZLUO\nifmCM4z7AgMBAAECggEAVeR/j5eh08YC2i0ZN9EgmerRvgxTd+8lYei0FkPorNzu\nKMZ0SNb/p8VhgJKw1HdAEufyMvWQmJI62Nzgv0pqPaPB6PhcHNJF35ANiN09IAFW\nwQ+nAP16+x2ypwsNim4j/xBGQ+2bVR3aXgBdS0XEwfs23EUmxccQLJC9Nxs+NUZZ\nlRSNQ/Z465WnkbcXOsdoXkKN2aqo3FbUd1q8QTtvkKmzDX8ChHZlv8SdBRJ2oEFe\nqXKr1JQYIf+Uvj0dUPCiBIe8q9ShdWhxS34ymdiPmKimT+rczxgh872Pkt457kLk\nXRW/UBNjJQVExgOsBNTeCAnNAer6k4V3SjDhEvbzqQKBgQD9K1ecDlKrfFYGiY1e\nCT94K1dcVRLkCKEpweltBJ62vlX+nx/hq8q2V052qU3rPyC8/B0olafLnSxblYDb\nXtmKEsjNVe2NkgUxu4Sh1lgLJbViIJ8eDfSghsvAza2Qann9/ltgqv6au5qvPdqh\ngX5Sga86QtZyEVJG0Q7w4tlx0wKBgQDGQ8Tmv8g6UAcOBS+gr969VATO0Y7G7cEA\n5ucs0TECW0WCJg062/9LazqZz8D3gu5xQQFTQRTO4D0bqD8hWD3pnQ5viM3tfRkk\nEgJOAFwIKrGBKero1ubtDxB92Wq1mMEbrx6j9NSpCNOvUJxaPlxeK20QyzTamcQ8\nSCKCOmvXOQKBgQCrjkVN8L7Aif7ZaziqsmWaDvSiEtw8PkTHwSlmwKy0dQJdCoNW\nL02shjkbW9r7QMn0hntT1yXfamB2pzascPfFArmju0jAmGSAsOtNp6v90c258xUg\nDqDobq9/tWCZ7i1Amq5dMUJapCpL+gQ/UTrCujJ9rnEW1voEFwKi5XYoFQKBgAke\n/wT6l7SPD/QGKw3CaYXeQqZdH6tpLrLi7Im0SgPovQbix0MI8fK/SR/gXelFHcEa\nE3yIBvQJfuYx1E2taJPBxPM+oPKnCawOJAsAmztI84eUrRjvIgqP4dtYUD9wepnS\ncZ9rWQk5vbtYAwlnywoOB2N5ZcIUxuFbFDNXirSJAoGBAJxYjLLFns36pIsIyfwl\ng6V/9KpRJFkcge9XEHF1aFZ/6MGDYwCFRfNx+SMKFK/uq/XcZCFe+v81bLQ0IGph\nWRBmMTaYHk5vnV7QbzTF9SxFlFd1f+o8nlCC2mGoSYPYfIvxey/rMXr6ubc9JSiK\nUqPPWPSUjhM8ZQIbVw00vztq\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "97f4e1751c59a833611c0770109b7fad959fb8e1",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-pcmkgm33o8yeplfn2p6jaugyag@aniversetv.iam.gserviceaccount.com",
+            "client_id": "106998778376152684483",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-pcmkgm33o8yeplfn2p6jaugyag%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjTF4/Hl4fzOyg\n4gFwTPE68zLcCyXAsclnRN4FPd8BV2EkyV+uLJpVmwW7Y0qacNzSo8HPHHJzH8gl\n9Dc3qPhbvxoMM3a3Q2LvErQ7GNCMGuYJ2fk4J6+IVdjAbgBh4iqseOFoFqs/BLqR\nL+F2+jz8FgYarsStdCiRnulAN20G6aCSS+YYGb508mCQeDVT8NZwlzZ8Cenn1RKk\nuC7AxTrxqn3tJup8N3UE7vLTkw6eQyQJ6/qWFllp32QTnAuq0l5o3J+YQu+Ze4rV\nJSKvrSJH+spn6tRzCHVJOh3h9yLFpcb+A3DTSfu6C6xymKn2F65PiSnc8V1ixNDx\nSXaz4/pxAgMBAAECggEAAVRAtnVOEVFcQgaiOd0vynR1HxmKdgohvZuFI22d6CIj\nWjFhvBEaCXqAnluVcsfajZlZHWaEdPTsLrORPnymLC2pmIdTtElSCmhF0MRShY1o\n1BQy2oGSL23Ox5QtoHOpjWv8yQQu4ngB97wNcv01lrIBhzaRxxKkC462TyLpr4Mf\nHcaTV/NfHHApRMZz9WzJEsf9ES01TRUK4Qz/6T4/CF3Gw+SxsZGurIfhbDogR5tz\nwUImIY04udJYazF1PzcGZEq5Ar4U89vhT7IXpxitEQHp0Y5Aisbu1O9LXNFvDRCM\nBy6/PasesORLfGQl6HGz9mR4qgivsp/bCk+T86khcQKBgQDcTiOvXMfJPdyeb0AG\ndEVgQkXjH9TValR9A57/kUfpE0d31t8C+ysYY27aN4+r0bGZs58cznXFbHPzo/ar\nv1Y+XTNNiTAum9ajFqPBQELgdsVoZcq1mWkuIzcOnr4AQpA4UwAUmtA4yJr/esZ1\nvWoJY8zuvdTxrTWGbO5FogPaaQKBgQC9wa90lucQn0xKYQXrLtH59+V+y0w/Q6Bb\nrG9PJNsNgV97L++3YqHxGvmo0LOYW9W3RN5/I2dVdXyZ5CCBElkoz+VTb3QqPieF\n7E3xAI35LjQlgzs6tjMfYNJ8CBcVPCDUvzKraKepa+hlSjlTAydFIUdXjfcnxUqp\nqYieVpXOyQKBgBZeIKVnaCl4jHPRm9CL8ZdKY0oiKzvX5egje/s6xvBVMsZqHI5y\n7fc18UVaqs2pJr0STa9hDvgSgNtV5G+fp6QBVnoi2a+BxxMb81hlq+SaaoSlASXb\nA6DZlnd3ipcAKyBs3O86oLWDOKmDz66YorF9XotG3t4C1hJl8PNE9dsxAoGBAIkd\nd6cLk5PTR9FHInu6rUeu9UoVpNbiCvGzPAs4WoD7xv7AuLsOrm4GS/jMNboWQevX\n+95qurRp3MtmqIYbuAlhkBgmJQ6RMwX2pqtK90vjMxMYLKhUF8TItc+iGOvjMuYH\n8pkhWmV178uhQqLVWH7/eQmvL7SxPy4xruKbNkzhAoGASqkCszolvZZ3azeVb72z\nv05/5urqvUv6f2s1FF8RdUT0kyfByyEc5vi94raySTqbMDXwQUvwAgMVzWgp3YnB\nHyU0f23P+uF1bXiEDX0uvzkJ6avmOGOLj80/iPLD3YNzX0UoY7oAIlGJqqAzyVeq\nHQRFLatykCqSniTPokEpMPA=\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "8fc2cbfdb6969b6e72e0b0b9ac5523e2b46b42fb",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-d5id0rfg327n0ly7346oln5nbm@aniversetv.iam.gserviceaccount.com",
+            "client_id": "107214896665723319887",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-d5id0rfg327n0ly7346oln5nbm%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCKV7tQBdxlnIn2\n5VWuGFp3m4CmTelCljDOjdACJFUA8VdCHWzISmdPGmAsL3LSimLmXR6COBCvX7x+\nRrwbEM0MefMdIjnSXyUJH3y1I5LRKJKR5ZUD+9DZDWO5lv2txs99Gis2Jm/Mrvke\nv+2St0oG+mLBrAwGKdY7S2V/CoY5pBA8wI7AC4L1hjEp2MgEhM9Gyz7JZ4FZ8o9P\ndOZKhZJw/Sky4ce3A0xJajKCNiBxWdUArw2e3daLTgVo4i7SVHnECnhQX1XY2fS6\n+1qSCXYDtiJvjP7OK/DZhY/+7osYIofvkPFWJpeNwH3zD583oviB8ZEnZ0Sh2ias\nWYd/7GgPAgMBAAECggEAOuSxUZZFJp623vvvdy9X5/4zjNizGg0tFumpKRhFdaLI\nRlWXd0axZyvv0C+c3oNaKf5vW/k5JSeI62r6bj0/RXXu6LKm0ed+MT2NzeEogdEX\nYHPPdcQwOw6nqxzbvqxZrUTEK4e+ZXEBjbUgEqrjoUfbXd57ue36jQCCY0xcKtIM\nc7vO5PEjAAQZMC/exgezaNSBUGN5qG4dXFvI9NJT8lxTM4tMCGtzrE9lFMz2KH0r\nigRJiIOFXJ9H/xjaHRf4qpO8vnmlrs6Mdy2CD9hEa/FdVt2sYgnleOkoz7M0QRkX\n8dufQwfyb6eByX6MOHiGmOWZ0650aLt9lMg4ARu0AQKBgQC/qS87d/UnPdby0QsR\nERN5iHId5KsZUgfnD9N696p2bwhgHp2kd6VCnQ/NSuZDSTtPDYWxiKZCL8i0eeLb\nvWrJd2xGfdEuemEs65CPyt2xyRcJoXnz+zVv4RCL5B3h+YHlIw605C5zOgWWsouP\n3OrZTvJermL5RU0nJhFguUrcDwKBgQC4yIcoST9vKgl1QuoIENxMNalpJ2G1NG0H\nXqEurzitVQR+bRZ8x0B0RUa23EdOzvuKT6xpmZdMRWtoPuyrEHPfqzr802QrIthq\n00RCwLn+Uanx1n448I1hmH7WMLxkR7MhHP5bH3/9Y3/MSffrtMzge77MpXiNAzmx\nXgLZQqm0AQKBgDqaebW+VTidgQcYAkFCrmi/3tzjGaoRWhc90JVN+1JhWvdBBUTP\nzLlUmwtTtpqmXrsqUFHbjbK5N65vgn1cKrXVjUb0m6yRgPsiQD6ncig1a5TnSgnf\nKxS9hbiwlK6PAzfUA2AuUUGsYR8WEvR3QVwW9qcavWqo1RF+Y1vm7EvjAoGAFi/V\nsqug1zsn6ZGAQjmsCeaDkeGtpLFHyhO9rLpTRtSndnqosZDHF27d/8TRNxA5ObE5\nVXCgrwLC08CCcEPIdfm8WnETXO6RJ7p4Pr+fVX7+tc/4VePkReymhhdR94R4aKhv\njgdpOcaBqMjU4NNTqjyRe0b/A4d4nOhZ1TZg5AECgYAO9pyxZ4Ng6URJM3Fe32sw\nZ2HVuomQdnXovCO7mMlZGei4Wxof8VhKY8yHXFiZuOYQ7LhTlGfdfCecVJobDrkV\n9usnwX0zpCk7FpgFpUgPAx0VvPS14Diohw8VffGOSfE3q3TeJpGAaY6w/Vk2YvV6\nILpBj+EtOt1E+ymZTiqGgg==\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "cc6521f8e8dce881f13c758caa7563a8da9048d1",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-vnj2sacln5hsjx1m7xfqtgrtt8@aniversetv.iam.gserviceaccount.com",
+            "client_id": "113004166667912530763",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-vnj2sacln5hsjx1m7xfqtgrtt8%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmQ2SPpV792+T7\nkWiCTvbQEWs9wpxvL9Pw5XrKgcyUDoxHOMga/L4SgI9DFQ9fyfEKGuzSI27ESifd\nyDDXPWI4lJPvdyD+MLGMLr0uT6zIWmS1gO3ggWGaRqCx7jvx5CDImr8EdVcHaVZv\nyMgaSUnW3cDeo9VbchChoTR83OoXniFU4dC3BXWmJoH+OBA9z2Hkp8eI5XQfiKrq\nmelGWgOt4XPl61h+xdXNBfAS1HKBO7sjz/J6r869h2Tyd35zc7EkfRZwFfBp3T5z\nxgVhTr7jKnD/+bp1V+KIlvfldQqheB/MUjVtbCDyzr1Qyfpm/yV7SeP0xExOh76d\nxQE5wILJAgMBAAECggEAMZJequIiQiq98D7MrgkL751gZgponTNBwIHW3pP1FAbR\nwl+CDPVOgjM1JG77QVb7Un6bb137cby5OnDnut7XL3ElLA+Mhcy73H8PcVHr07JK\nLh0UmRmhhpIf9E5ij1/agvV1nCMa2lieKDCki6wtfll9NTE2NJqo4/MNlrgEmZKj\n83O3a9KZxxGW51AhMqonID/XUao0o6ukxdu/+oE64varfvOFEg/CYl6icgKcle2P\n37s/Lj2c0UOakoRbnKRUA7OUgcGBqAfiF8TkU/MoIu9TO2TOgfXtnvIB12qAg84g\nv+YF00STI5sP+4cmtD5xRg8SPCCgW0ySqzHb24fbRQKBgQD2Z2gkN1sD+LGD6XuP\n0+rS2I1zh3hJMvz6NyRKzNiBGw3tTQSUkLJ1F6Eofe04hc8IM/SO2Y0Yb5qh7w0r\nTOSbg4WK2i79C9Uhtxlt8AP2MyhsGzcv7BlsB4pXeIaxvlpQxW26nfINYE2hrDGI\nkQ0nd9aTXReR2MgJfGwqZ0bP5wKBgQDvOxElXgHoVIGaeEINufCS/tcAfuLBnaqn\nnqNmgzWaz55Dc5id6CVCliFk/b2lkaPKAugOO5pfqrnem93B54IQIWaV4rBv7/Uq\nziXGzWu7kUNIGxDIJAa/uB/dF8XeQuz0KwpVhLJDLhbcj+iMVmxnR0lJdUZ+Zzdo\nM7fAdg2BzwKBgGcrBL+lLcaL6keBCus9n6SIZzFoF0UOxD0/uUJYYo4r9bjV9oT9\n0LqWGjQKBbkUzYpxtoPZMup4UBZdMPZgS5eRieiJUgNBYQuszkjppb7/zHz3KDQ4\ndqx0u8fD/yGMwePvxfHND/vpxpdasaKsmQVdd8pbv/KhAaB3KBLZCx0hAoGAELYN\nkpCojXQpwYKZCqBsf7gxiKVUbbX3z9GzFFwiCHhsU8XlaVJoF+io2IcpEkHEMT5W\nu3fKZthkN3qn2P21Bi9vHRVCwe7/L0hLN0HuPqH9EzJgz7pEhmv0PduFROtj5gKD\nrEmisjKsAihDVFpNJEHEis8YZ4gKRMsoENeuRd0CgYEAx55Oq8FRBrukR0JsSYON\ndVwF5z7KnteskP45zxkZ8eE38YND9m6da7Owt9ny0zIC+Rl9Z1KHxgkUcyhNJM61\nmXSo3ZyuZm3mFYLXOphA4UDJkDYixtSHkNgL5SAJ/PaiiYBOCpwcFh2QSBKPgeGA\ng51GSaZsdjX1mBTr/NoVzfI=\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "15aab980e4ae3ffc9d4ca0bd013dcd7934641f04",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-leu11zehow83iip6oqq9ltn3gn@aniversetv.iam.gserviceaccount.com",
+            "client_id": "118405285933946555940",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-leu11zehow83iip6oqq9ltn3gn%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZ1LVPIGw0O90t\nn5ufrE6UsBJUTW9i15CkXMd83Riw+Qm8W55zBmWfh6d4VJDQZKP/37udN/sk3Ajb\n5DUyVgUaeMM7vNh9zy7JquGXkzztAI86yqTgw2xlKXiqfBKB+zHqKLTAemTx1xY3\nNkKxrfMp74q98X3uQH94AqwjrtNRV6v6dnwl8Izg3K21PbyIK3526ARyKbSREA0E\nk0leGdCaK5JjGqZ5aylEUA+qFKsL6xpmJfKoikXkxWRzTtOAtN04Rdqf6DOwQxqc\nDkLJdXoRE8lvo3+MqS3KDuPoc51zyad70lg0UlnY8GLhhefUPHaKEGxr+Z5OGFDI\ntLT0g1p7AgMBAAECggEABl8ncooTQC/kF1qM1c3Xepfv4VFmibCehYBFQYzCFSMj\nusO/TcQJIvJ33pgyqDXZajmkJkQl730UMUJqn+9ONOkFZPDwMDXoO3PpJ2LiLFiQ\n1/pnej+dIxRkeDAq5mxvmFbaeqrZ2w0clD7dEo9xBnAAUfAHa/mtANirKlwJyF5H\nTfK1rSQ1nZ1XJZ17yyjm8jBxMgt/x5pv+92bKzvPPSbEZG9aFt0uYwYtGv3OuRwV\n4GvJbocvPu1iPIeGSOeP8/J+rXZnt3Hp0WnnwZoAx7x9JpnTJZap7X7m739+PBUm\nWCrwtl8YI90yFbcRiI/+eR6ijKDviw41jBTLuL/QiQKBgQD6Pl+LNGkUhJniiKMa\nt/dP1ViQ2P95ZUoYpnZTq+K+5PH9IuAPvIMBHCby5MPHA60usVOPSkR93YGq0Umx\nfHtKLcUweNEuQiy3/MEALvvtxtqR1C/ofwkbtmqI5D9kKp1c5BjMyeOm1q79rs58\nMrjAlM543tc0stL64b1ccXq0PQKBgQDe13a9rugv3t7voxrpTk7gXQBgb87HPixN\niIAtRWGbILm18RKW+eZA9+Byv9o1xVznf7eQ3TBPsS3vmG/blSNs6dvKV437s5Ql\njMbCvG02Dn6KZCscRd8qwr0A0ngZStuTMnZBZFC3sDdAwMjhmQfpn6SMsFMh5UlC\n5oUPZD9dFwKBgGz6zuczyvNpkA7MzKNtLKIy2mAycIfwqaU0kWF9AMF7uTsxffy8\nbx0Dop6zK+O24Svtg+NqR4u89KRsgrht6s9yQWcLpqWLoif6Rh8LVyHFMRjDHJ4W\n/ON5vMmjBUxdFq0GlRpSbfcRlaHbCAekmzsbUxPmkDheDG2/85SXwwVNAoGAJT4r\naS43PfDon3JKCB3/Tr4cVwG4tFHuw5KBoY9L7co9X2wH6FWhptAGogbwaDYw/bu5\nqStebKM3Aykd4Lv/LK+0/Q8++ocbxl7NxTQKqJMpkOWG0vXWg2YCgoWqbse1BNfV\nLb6fQuPfiCHwMMwLp3732E+LxUl1wgmWyWi+skcCgYBbypgifmrUyTUMR0MIVLoL\n4GWOWC+5/TLtOYxAekE7PTo4BnacebyZtYwnbDX7wz6VFWhuuVDbAcRq6q15Ei7b\nzArcD8md3NNUgkZeQ0QVZzGPbQ1qd1t4c68DfXE80WmN8KUZ/iYq2t9V0ElXHK2j\nzIl6InWZ3xWOeesGqlNv7A==\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "d29d832db16dfc53c534648bbe68e7e9c4c3b4ae",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-q7522rabq75yn4113g8c-uxvhl@aniversetv.iam.gserviceaccount.com",
+            "client_id": "112140199537461475211",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-q7522rabq75yn4113g8c-uxvhl%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGNAS7S+S1oaAM\nh0/6CM92tz99oDD0oj66kGMD/ovoAuzx7TceU31XZHdMzr8YLtXRrYGoohR2xGBV\n+MWr3uT/iN6WsnIaPkAZObWJsvfnLQMyZg/yZRbcCmf9MK3ulUggWHxjWkJsNARz\nNe0/5hoLMjrwAZCuAsfFNUzH77fenMgdOIeMZ6s5bI8O5LFozrAMmSJrAQSdsQ85\nn6BSEHJ8Aa4nemObX0uYgYiKtDEvTfO7Cz66jabtSna8g9ucKcixt7A5+8t+kqdb\nIzhFhY+ZmTKzNEU3RrBVCPTC+2lzsOQi8pweOwIW1lNHWMZPJgPQCoW1fyLwJrPf\nY5a+bGjrAgMBAAECggEACjsvL1fok3OnZl4pw7dmtjMZZOu6+zXQ1SKU6eTe5fgY\nsRhUqw0WQEegXOejN6VbRjqVodXUBpl2e5me4pNb8NDo5JCLkU07U9IFy/jgER/i\ntVxNYG7VckBbQ9eacuFj2r+WlC5ZlWpN/ICBIbZIC+Ho5vC9vi3IkCaDMyLts+D+\ntfhgD+Wp9Em8P7+C7WvQiR5dn6tcVs2JFrQFxw0VnZ+kHNGjCjhwdVW0L+3xoyMm\nVvpElli/R+GLw0K/BJatJMvBaszXDaFYorekHMBixhaHT1CS/ocbalR2X9JRQ0I7\n04f896BrEYo+hzEZdc36JLEytJ6/ao2NJeSrEeQsyQKBgQDibo6zheBKRf3q4ww8\nkrNjK75F3JG+AIjDLzmSRQM1IdgH9Cju0ujBx5UN5xcYS5SVgupyH9iJetokz8WF\nMiFIC0TVAdNF34wJ5iN6BCCWAU7kLIjucg2ofhdWhmCR4HO42lHxDkZ8uRGbsr5d\nksNw9IqgA2ePj3zC82ypfzLuZQKBgQDgFcxoeWueP88oox+c8qeZsOLTn9csazka\nwoBaP2Jlew+P6v6HouSqhhJGmqykkyYmIuTS6hAGnz/+BMTTBXzU1oIgRCu2F3dY\n0TkKRs4ettbM6TQho/6xAp24PyAYTqRhQYdHu8c3WeKtomdbRgANUg1zSuqMPdtg\nu2WQDUMdDwKBgQCkMW1TKroowbZNtFS0O+DPAfJYsIgSkkqZ1s3Vjiu0RJVltxxT\niib0Fai1SySJHo1hGWyuUv9vOeGjnfJqEp7loh5Io6kzWtYue26wVPvYKpytgsnM\ntnHHA6AiwxCV13+yxMV0mlhsqrrk/2lha0JDz2AShkV7aZ4bs+7QvgcNrQKBgFZ+\nE3f/5dofJwa4b+tUffyEmgi1GYi7mj8J9CDhdklVRpx2R+hyp3Bqb4NxEFI1ufPe\nZBRE5AqqTTju/km1RImigneR2I1gYWCW4T1mNwkD6cUN/mE9u4D3UYlcVDcNo8Um\nVeEKScrDlwsONHa2fi6mDSsDL6UR+ytLKdiARfdhAoGBAJ0+v0RWEacFB4FUrujX\n0J+P9Iizd8Sk8W7He0hw1s7IC2hVX3FRTdrAqRfCMV2lA6XHaeFM6xXrhchEmB/M\nQnNEx+EP+jooud8pAg9UI2sPeZqdVtOHAhlgsr1cihFlPgTnbix9X3OiPiKa61qU\nnGS+0T0rRlcuKLU9PP4yBTBi\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "2ea6a155794af27439c933eafc6644a63b47d3bd",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-6n92z04mknzi6stcqtsea152vi@aniversetv.iam.gserviceaccount.com",
+            "client_id": "102005945386756291977",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-6n92z04mknzi6stcqtsea152vi%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnObOJPoBHeTML\nPZHUDTKW8GfcWzngxe3MsIw9O9N5ubzaI2MqjETSCTEqNQNY7fyZ7vQJEeCjWtiA\nnqMpPOdxnNaNUr1YE+Mow4Swk0dyA4PHbCCUcHjikkE+Z+ObN63i5HTMp4Tn9WVl\nIpUWvJ8LHmpa82AA+FGQO4tegbrSaPK3nJ654FcrrNlYL2co74UNRjSbJobir+Bt\nbiPBOSFifKL8BxqmdTT5Gazqe6xngrQrXtOPA3HHedAFieBptPVBbBauiLVNO0QG\nQTAj0OtuJDMJNfdcPeScgJyeOlrjTOmugxyank4nYk/GzDqyO74NXhXXb88F1kn2\n8mBa2MkHAgMBAAECggEAS1hvwMhE8y80JP3mTUVvBFwoZ7xAzTpRBVeMsHBave9G\nnICyRzLxNTOID+zX58M++7qTAN0pumCNyRHxEP0MiP+yGfXsMxmu0aiaihap68CS\nqRFacpdkmC1usSgNANwrAF6QE7/s3biPKWzWAOsWu+NF51nd6UH5OgPiLUBFhVSh\nVVatUE7jxJOOqNzTiU5Pa6Mi750aCncCJsZwl3jWntktfJ483gtjn2H01vtDjmkL\nAHQbffSkLWkL2ikiL6U4f3Hw6tdC1LGRfMg5xhFHqVrQOBGYPwixn0Qe4L52dBMu\n5+Zq5p6ssR83i9nVn/KEdv+TdyiNq5Zv90MKTOEFiQKBgQDnv8DkpSC7FXfV3yey\n+gqAagB78WXV+bGKZPHLR3QTlzzrn04EXiBrQYwkkTzfMJ/uDo0FYS0ZXp/5mlwJ\noUoqod8N2rFEvPQ85HSnZTg2KDk90Hmt43MDhCuVlXrMOPhMW5duwcHq0Rabdde9\n9seBQp341BdsKzr/CUy+5yWs/wKBgQC4uXIiYFh1UQ7KqEVUAqEGX0WcwgKH6ldY\ngpvvNdOnFWxe02Ypm+QNLnAydr89xA5mZ5gEycsbwJkmx5ad3VZycp8NE9bELYcA\n53sqTL86vGfCpgn6D8YgglVHE95PmjijUFoDrPzeyzgMh1p44ExvpuoR8/X9+2X9\n2GKAYet7+QKBgDjX/O1YX4XkByfLe8ZXtHm5BnNgS7VHcLfceL5+wUcI4qV8xrsl\nh1gnlMNnaIHqQGA463g1VMWTQzQLG6Y1DKcWW0rfqHmOy22gL8jbeAU4qomx+Bah\n4pUrNzGSn7M2ChlYofVFy1XYgW4SYp+yx066U1s0UqZymB70XgG5WrFrAoGAaA4m\nidDF44f+khAJxZIZjNJcDzqGXHOYMkaYej5S9Hqv6hahJO0ooHg5QWP8xFlNV0gh\nrQjS/dYXL24cnN6SlLOWfrJfN3EB7HN4wNIsonSA6nfHhPIfxC5GxVweza5tGynn\nGsz2QLYu43fXceG/jOF0VxqaxjA4Oq8KhZEjKlkCgYAOOeMIXui97UFqLLtfqoRS\nKX+JcDr7hPfKs6h3Ttv8TW4MtRbiCJc2YsPcwXNIGpFSxBWwxj6/gLuNNDZRv3NX\nfFKirad6K7xGsZIB0Q0pcB8jq28VeZUA1scU3s7JBlaTGJdX2PnB8Fy7VyM0R45r\nHBDpxRZ+JX6+Mq8Dp7m79w==\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "b977064646e06243ccd83e597bdefe2ec9a0f072",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-226kpn5p84me28553kurzaabuv@aniversetv.iam.gserviceaccount.com",
+            "client_id": "106571172793445502176",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-226kpn5p84me28553kurzaabuv%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZvA1KHdTAU/+7\nWAaLSMopNVCp8ZAkTnm7KK1G5nE2oM8lvI+EDK91e7eKq1uteE4qhPgF8eMB7ZXO\n2sG4+M63toUYML731Sw1rm6w/6x+EqrEB8pN+BD7SEEdFvJPskhRuRXUJlwNB0iY\n6DZJ2rVAnkpdfWDwMPxzsxc8hK13UtoLDfSVj3aLTrHzrNUdycnsaBQgZaBEgIGn\nBJT4TrJJ31tZa+fTW7sN8SDRTqMBzEtUqj1QO2esQvUfX/aVlNxRSiPHJuhYEIk/\nlnyfnYsFsnEVI13oufmqIQGWCAdjWxTYXxDMG+zfkiqK6GkzZ0Cf8GmNuBpzhfjv\nHfB3xuXvAgMBAAECggEAJHO6BPZw0U+5hf73wkP2p3G8WCdugaVX6OBawcJ3Wrgj\nlfORZgKqAeXdXdSGzumFQ0C3HJW/uV/P0zX8lDLutRHimhtI1LPnoSzkkzR0fopH\nkma0eetVf3eg9NhRiUMhMbt8qQqVbgNpm9QHt1hT/OfrgyJs/1bmLTrsSg29odqV\nmBVTlWheFmNUHJgtml2DXKBqskp9iJv71V2kNuWQLQbhjA++oic8/LWi6gh0Dmvi\nvNIreQ3ElaC1xRfsy1hvz2hWCW1xb2aZfAxvDKoguXsfTyKGm1ArzRmKn3pcebnm\ntwoA6So4PS6SZTVWK5XdURmxtJzprWOc+2Bppwg4SQKBgQDSrn2PylBcAvrbRWvZ\nRMf/Xc2Nio0FL71t9NvojlFUl4r0UDuwrY9aMg2zb1JZsrizxStodaA+SqE9PoLR\nYfszTcyKLHP1dabkHCeCbiNmE67LWscY2LLqzQSMI/U41ED0yNGVsGvtr1acCAMq\npqKftVeKdNTqpIzokkFQd/sOaQKBgQC6za9g/AsxlXmpyjbEPQ11nTHzZMZY2nfM\nnMrV3t6EV+1IBjW/XaXXz7ZC6NyMJYV93Z4LjXp5g2pTXVbbsIDfTocn64vVSouR\nNeLJ+MljBKYm3VRbs2OM3rhRJxmR/YfA38YnHKhFpEeW+456HQozVLkyaxujjQWp\nGD+s4gV2lwKBgBexO7mR3NucEi3abrhuPbeACv+h1x4AMmNNJ/XNG2RR7nRvGWdS\n/U39VwEYwcAIkzDUOX9zyuN2bQ+AGiIFzMQGObxIJ3oxEuWQLPlD/YMbL4r62Gz4\n4ZX6HErOOGN9qxhcBQW6Y0jFcQ328LQ5LQyczg1p+g+xFY+J8wJjm74RAoGAEM+1\n+tpz/3BeVKN4Lkz4Sx9sgWUOXKy8n1N1Ba5bBDoNhq/YYnKBHFz7ICZowswVqXAq\nawu+e/URupLp4DeQQYiFrVgLa5Sb3uOkl1ymcxzV/yVoFCCe0uywVc1ZBcR1VSxO\nXvK7ShkwwCu/dMnsQxZa3Gi7QgrM+ZzPDjYBG90CgYAu9hoWv6GNKy/wg3+ncKNg\ng6lF362DpgWf/aU63ku3hKGWNWRQ5HvSdczv+UDB8DKmznNPQN7hprUbr9Axms3d\nbOAG8e5X1sUe5Bp8+GPBBIFDxw7Ui6tg1QU4IbaE9q/SiW+zobgRkphLCGRfk6xj\nbsmvTLCANz8PGq4flTiq9A==\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "80a6d680933ce80089283acae7a4ab9e1dba327a",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-j19k5yot89wbvujctfxbz35t8r@aniversetv.iam.gserviceaccount.com",
+            "client_id": "108848617152332936722",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-j19k5yot89wbvujctfxbz35t8r%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCttH/Qp+5ir/m7\ncPIQ0Jpe6RGKv8N3M0WiWty4uhEwXl3AF68UmUzOcUpSMqfRFMjHZMES8UdoF+1y\np418IkbwoOMNmo0Q57spUaGJ8LIS9SSmUX/+pagukp6NzY70k+HgS+W5TR0t8gBS\n01ZyBnu+0tvhzVZg2LZwjGqVUg33E6bJcsGaCSAbPs4eD2Uq0V+QP2zGOfiSQLH/\n3D0TtcW044EyRhWsk3o2rRT6xIkdkSQ12BU0DSepoV0LyvVR26rzVad8FqqLowxb\n8DkfljPcMKWOLGTJWLFrsJdWdi7hnqkh3cyS36zT7P81XHtaFTXXEaUUYB5SYyNI\n9VRviid9AgMBAAECggEAANb07Z1Imbfs2esbc6YoGOCN8fQoJ1T06tDMBr75HLK+\net88CW10R/5kM/sd58Gh9tTJDVf9PS0tO91zezyIyA3L1/tkEy2lMF3xc4+mTLeP\ncpf4qZ9DYNynx44aBgFw/64rCupEg3Ek1agP37bVG+cJCRGYPH+ce8H+zrOTpBro\nks7XKeB6j2GadEh9ia8LHWOX+Yr3hXlo2Dxn7x1un3yGjxjFp0Udm7ezqjDdBUKU\nCnUhdu+ozrq4ZpqIpKY9W2AxQAesSIfx9RP0cq8setvm05RcDJTpaixQk8xz2jqy\nnc8Hx6LQ8QN2DHcD3zQyzbwuPCqY4G/TFZSTNFCYAQKBgQDa6i7N4Q2k0nklETW5\nz9WwIrzp784IhturouP9iOhr2tBpIkehICzoolR3CbHSxknDQYHMU6RR4OIKrNJy\nHwBf9uLLFcf8lcAW8WAaOJSzjJY0gNbHebVFQnSYwksOwWJddc96jyDnAGtQb50t\nx5iyE4avbHUI8HSzzVgaMrWUnQKBgQDLIa2sCCPbEvvF6NrIoPpkvCEV9akjZ7u3\ndSvT+D5e7YKSjKfeiN6/c5xZLg94gPoLbjf2uLaeMoCrzmCOM8JmIAuROuUNeO8r\nifzJYDNO1Hd2pJ5Rj4Ih6SE0ykklEeRW5jMtmOuPA6qFdV9apdLPxvMQhuwuFRT2\nwGorS9y4YQKBgQCySi3qURNqnFw72yNVfLY9aF1RbZPwj9zSkax7bYhVZvV72oZZ\n7LmGkcaW2FdyITosAuryfWCDqtKN/Si79xG4FnupCMlCpre2N8mcMV6ySJqAkjna\nZf5DNRd+3iaBEvDIy006NN2IJWhBL1Xk1f0/cvWrY3qB2ExDr8bEN255ZQKBgFM8\nprTy1PaFbeQoSdaimFhE+u3Lr5ZRgItpmR8P/0bY3oN83aEDxvr+vdeRV0eS2mNq\ns8YG5NYoba95Lvm2XfeJNBQ75PZDUwYtUgeWww+PYrCcPj+/pZyNsky2g4iML1wo\nkloh6oy8/NgZQ4yanKsFpD5me0ta2i9Oo3LAcF6hAoGAAJLlwppSyhsMDvbrL/CQ\nP9esge4du62qa18GNsOSI7r+HoDCVrgDMInuHdtGkv3B1tV6n3iFdpAdIgf+yHTY\nxLj3m4FAwJbKkiOM8Lsur1yP7CkfYqHxgWUgaP2ZE1yo0Fa/C083kbP5xeZP2hcH\nwSOq6zS5/S9GaUnNHr2y1qw=\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "5cd6fdcfc70a865451a1bacd5373557b904824fd",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        },
+        {
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "client_email": "mfc-l50x51azq31pvlobcc0pyh-ks6@aniversetv.iam.gserviceaccount.com",
+            "client_id": "104563432956232600674",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-l50x51azq31pvlobcc0pyh-ks6%40aniversetv.iam.gserviceaccount.com",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFmHLQA0N8MAAi\n8dP2QKizKN1UZHF6xHHgvdnn5Q4kh1e0rhtyor+dN5Vui4fnPMO58XKvih6OZfDk\nlwhnnzjEpNKFi63NqEnGvh9weRn+GSBDnpgDSblVghbAlOCSh9Bfp3N6J6IG0bug\nrPHOG7uIPIpVb3MjL0BIoVyz9QgxZY2GvAEbi1j3VgRxZO4pt/f6cUf39i/ferr9\nct1QEezT6lO4QyBVv1ndV2o30KsU9volmMtItenI6VFUo5Qcpyei2ELfhuXZTzex\n4Tg34/zHDWBnQrcTpQqu5XgVYKxPMD10hwke4iDQBYZx+CTWOTlh6exk0/kyoS+i\nhyQgv2GJAgMBAAECggEAEiBWB/cErdPJb2s3wpNT5nuNMjy0nEqBF9jSsI82qOsx\nhIWkRvPfGBENSELMiM3uNpSLrMbC3tVDL/Ua9EaK8p8cINwbaY5SlkTCpZK2a7Tq\nXMmjsEmHEu0IIUqG/2ouF1hJI5+XIYED8U1sMTgiD/Fdz1CWA1hGUWNcGbYUtlMt\nP/Xhik4vlrgSwk56B0OVQhODD55ZBbwcbXaZhnmTjokRJtwau9yoehvhZkBpBTvz\naiBQB2Kpw+cUuz5ieObH1hVZd+HhnF43z8z7mreOeEHxrh5V2aVimMMEat37P8Ne\ncxl8lkMGt0GprKlqbBUjUalv5Marka8lS1kQqxFJ8QKBgQDt82EhvVhdJ+Kpkeoy\noMX+4W5bvc/kgo+g2ehNCTiw4GLoVYsdYod06AyDsYKGI+nBvfSS2sNfZba+fERf\nA9Qw0XgUXXu4rnaQD8dz0X/fUWWO+UH+IyLnOTyoDb7jgqivN+o0juc1Lo59OkjF\ntte4sqAp287uvSjzC9NIahEp4wKBgQDUlW+WoX1V39D4qfHGs8x6pSgs/PFLszmz\nXX5X2mOfarsKpMB1wFEWk1cDutvi9JZOHj4adwfIRuMsuI7+9rSdXCQTX6peIB+A\ntoGFZGIFR/2Uc0hCu+kBTZBn4WB1mwYDfHzSh3r2xmjb+22qLCyOiEBTY3BU4FGd\nvRiFLq1SowKBgQDG63Yg4Yw0XDqVLWFOr661s7kxQo2/5xGxE1mqxPG6k+q7dX/V\nsd+xcKe9lDCcePtatrT166H2Zy6NMY9qquXBZetvgvMB4f9F0ZsYjGPMydwP2Po9\nPRxZljTJ/Ku+wCTKTgEhrPFGOURvFcFuX7sZMWLJe3MTi9jmzdT0LY9ppwKBgQC4\nYtVjBbc8oOEUjfMTsigNyOrL+qkgS9gkZ1eKw/Xc9Co/1R7KA4FR34J9zbmjZRpp\nr3mWYt/xKusogvwk0b9fLehslXGkKqCod6RoGuWaRxL/i+6FU4+KfchfEfEkkM3q\ngDOUN8bD/Nw+0hoQnDgZeLyyl3F7bQXdl4KJIi9bmQKBgCMCpLlfqs7B3BiyvMrI\n+AeVv4D3dBmkYc53rhYuUYCkU+NXrLzlBXIjLWSUPERSdFkstalbmS3LyS3xSCWS\nqxX6A32OK2Iqtf6YA6PDpHv6z4rXyakDkfj5XOVKEXlEWJ1J7uImBkZ/QKpcZ2eL\nxHRnxL2piROQGBMP0ybrpa+p\n-----END PRIVATE KEY-----\n",
+            "private_key_id": "1795da84013f72b13b1650b85d7df1caf53ccd39",
+            "project_id": "aniversetv",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "type": "service_account"
+        }
+    ],
+    "signup": true,
+    "subtitles": false,
+    "tmdb_api_key": "9eae817048a0800dd4ed7bf71d44eb2c",
+    "token_expiry": "2022-04-10 07:06:29.295511",
+    "transcoded": "true",
+    "ui_config": {
+        "custom_button": {},
+        "icon": "https://tse1.mm.bing.net/th?id=OIP.flb-a9gU3RLwINDkqKECwwHaFj&pid=Api&P=0&w=533&h=400",
+        "icon_on_nav": false,
+        "range": "16",
+        "title": "AniVerseTv"
+    }
+}
